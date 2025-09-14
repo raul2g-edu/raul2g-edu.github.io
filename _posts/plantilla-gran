@@ -4,6 +4,7 @@ date: 2025-09-14 16:00:00 +0200 # Data i hora de publicació (format YYYY-MM-DD 
 categories: [Categoria1, Categoria2] # Categories jeràrquiques. Ex.: [Docència, Moodle]
 tags: [etiqueta1, etiqueta2, etiqueta3] # Etiquetes lliures per facilitar la cerca
 author: "Nom de l’autor" # Nom de l’autor (per defecte usa el definit a _config.yml)
+description: Resum del post # Descripció del post que es mostrarà a la pàgina principal (per defecte es mostren les primeres paraules del post)
 
 toc: true # Mostra (true) o oculta (false) la taula de continguts
 comments: true # Activa (true) o desactiva (false) els comentaris (si hi ha sistema configurat)
