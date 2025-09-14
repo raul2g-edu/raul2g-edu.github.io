@@ -1,10 +1,12 @@
 ---
 title: Primer post al blog
 categories: Test
-tags: test     # TAG names should always be lowercase
+tags: test
 ---
 
 Test test test test.
 
 ![Benvinguts](/assets/welcome.jpg)
 _Benvinguts al blog_
+
+Test test
