@@ -6,4 +6,5 @@ tags: test     # TAG names should always be lowercase
 
 Test test test test.
 
-![Welcome](/assets/welcome.jpg)
+![Benvinguts](/assets/welcome.jpg)
+_Benvinguts al blog_
