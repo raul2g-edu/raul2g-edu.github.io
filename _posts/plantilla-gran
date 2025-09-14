@@ -1,0 +1,19 @@
+---
+title: "Títol del post" # Títol que es mostrarà al post i al SEO
+date: 2025-09-14 16:00:00 +0200 # Data i hora de publicació (format YYYY-MM-DD HH:MM:SS ±TZ)
+categories: [Categoria1, Categoria2] # Categories jeràrquiques. Ex.: [Docència, Moodle]
+tags: [etiqueta1, etiqueta2, etiqueta3] # Etiquetes lliures per facilitar la cerca
+author: "Nom de l’autor" # Nom de l’autor (per defecte usa el definit a _config.yml)
+
+toc: true # Mostra (true) o oculta (false) la taula de continguts
+comments: true # Activa (true) o desactiva (false) els comentaris (si hi ha sistema configurat)
+math: true # Activa (true) o desactiva (false) renderització de fórmules matemàtiques amb MathJax
+mermaid: true # Activa (true) o desactiva (false) suport per a diagrames Mermaid
+
+image: "/assets/img/sample.jpg" # Imatge de capçalera / miniatura per al post (SEO i previsualitzacions socials)
+pin: true # Marca el post com a "pinned" (fixat) a la portada
+published: true # Publica (true) o oculta (false) el post sense esborrar-lo
+hidden: false # Amaga (true) o mostra (false) el post a l’índex/llistats (encara accessible via URL)
+---
+
+Contingut del post
